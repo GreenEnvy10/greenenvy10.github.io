@@ -12,9 +12,6 @@ I create fun gaming content, tutorials, and much more! Join the community and do
 
 Here are some of my recent projects:
 
-- **Project 1:** Description of your project.
-- **Project 2:** Description of another project.
+*sorry don't have any yet :(*
 
 Feel free to explore my repositories for more cool stuff!
-
-P.S. I didn't make this ChatGPT did, and I don't have any repos, sorry :(
