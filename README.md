@@ -1,5 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
- 
+
 # Welcome to My GitHub Page! 🎮
 
 Hi there! I'm GreenEnvy10, and this is where I showcase my projects and creative work. I'm passionate about gaming, fun projects, and all things tech. Check out my YouTube channel where I post gaming content and tutorials!
@@ -17,5 +16,3 @@ Here are some of my recent projects:
 *sorry don't have any yet :(*
 
 Feel free to explore my repositories for more cool stuff!
-
-</div>
