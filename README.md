@@ -1,18 +1,8 @@
 
-# Welcome to My GitHub Page! 🎮
+# Welcome to My GitHub Page!
 
-Hi there! I'm GreenEnvy10, and this is where I showcase my projects and creative work. I'm passionate about gaming, fun projects, and all things tech. Check out my YouTube channel where I post gaming content and tutorials!
+Yo, I'm GreenEnvy! ***(formerly known as GreenEnvy10)*** You can call me Envy for short.
+I make videos about all things gaming *and* music! Not a lot going on right now *BUT* I will post more content in the future, so be prepared! :D
  
-[**CLICK HERE**](https://www.youtube.com/@GreenEnvy10)
-
-I create fun gaming content, tutorials, and much more! Join the community and don't miss out on any new uploads.
-
----
-
-## 🚀 Projects & Portfolio
-
-Here are some of my recent projects:
-
-*sorry don't have any yet :(*
-
-Feel free to explore my repositories for more cool stuff!
+[**YouTube Channel Here!**](https://www.youtube.com/@GreenEnvy10)
+Subscribe if you want, it's free and you can always unsubcribe later.
