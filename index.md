@@ -1,19 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <h1>Welcome to My GitHub Page!</h1>
-  <p>Yo, I'm GreenEnvy! <strong>(formerly known as GreenEnvy10)</strong></p>
-  <p>I make videos about all things gaming <em>and</em> music! More content coming soon! :D</p>
-  <p><a href="https://www.youtube.com/@GreenEnvy10"><strong>YouTube Channel Here!</strong></a></p>
+---
+layout: default
+title: Welcome to My GitHub Page!
+---
 
-  <h2>📦 My GitHub Pages Projects:</h2>
-  <ul id="repo-list"></ul>
+# Welcome to My GitHub Page!
 
-  <script src="script.js"></script>
-</body>
-</html>
+Yo, I'm GreenEnvy! ***(formerly known as GreenEnvy10)***  
+You can call me Envy for short.
+
+I make videos about all things gaming *and* music!  
+Not a lot going on right now *BUT* I will post more content in the future, so be prepared! :D
+
+[**YouTube Channel Here!**](https://www.youtube.com/@GreenEnvy10)  
+Subscribe if you want, it's free and you can always unsubscribe later.
+
+---
+
+## 📦 My GitHub Pages Projects
+
+<ul id="repo-list"></ul>
+
+<script src="/script.js"></script>
+
