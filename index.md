@@ -16,7 +16,7 @@ Subscribe if you want, it's free and you can always unsubscribe later.
 
 ---
 
-## 📦 My GitHub Pages Projects
+## 📦 My GitHub Projects
 
 <ul id="repo-list"></ul>
 
